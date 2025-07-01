@@ -9,6 +9,10 @@
   "scripts": {
     "start": "node ./bin/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gustavonpco/excel2json-cli.git"
+  },
   "keywords": [
     "excel",
     "json",

@@ -1,5 +1,12 @@
 # excel2json-cli
 
+<div align="center">
+  <a href="https://pixmeacoffee.vercel.app/gustavonpco" target="_blank">
+    <img src="https://pixmeacoffee.vercel.app/logo-blue.svg" alt="Doe um café para o criador" width="50" />
+  </a>
+  <p>Gostou deste projeto? Considere <a href="https://pixmeacoffee.vercel.app/gustavonpco" target="_blank">pagar um café para o criador</a>!</p>
+</div>
+
 ![npm](https://img.shields.io/npm/v/excel2json-cli)
 ![license](https://img.shields.io/npm/l/excel2json-cli)
 
