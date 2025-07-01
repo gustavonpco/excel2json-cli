@@ -79,12 +79,3 @@ MIT
 ## Autor
 
 Gustavo Napomuceno
-
----
-
-### Sugestões de melhorias
-
-- Adicionar testes automatizados.
-- Permitir seleção de abas específicas.
-- Suporte a outros formatos de planilha.
-- Internacionalização.
