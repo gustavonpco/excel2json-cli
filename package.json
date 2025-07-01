@@ -1,6 +1,6 @@
 {
   "name": "excel2json-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI para converter arquivos Excel em JSON agrupado por abas",
   "bin": {
     "excel2json": "./bin/index.js"
